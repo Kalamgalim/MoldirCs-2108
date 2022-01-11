@@ -1,0 +1,16 @@
+Механика
+Термодинамика
+Молекулярная физика
+Оптика
+Волны
+Электросити
+И юнитс
+
+#1a73e8 blue
+#190AFF blue hover
+#0da95f green
+#0F9646 green hover
+
+<img src="img/mechanics.jpg"/>
+
+<p class="warning">Remember!</p>
